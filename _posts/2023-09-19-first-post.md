@@ -1,10 +1,8 @@
 ---
-title: "Welcome to my new blog!"
-date: 2020-10-30 12:00:00 +0100
+title: I am a title
+date: 2023-09-10 12:00:00 +300
 categories: [Blogging, Tutorial]
 tags: [Productivity]
-# math: true
-# toc: true
 ---
 
 ## Test
