@@ -12,7 +12,6 @@ import icon from "astro-icon";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://kolev9605.github.io',
-  base: 'https://github.com/kolev9605',
   style: {
     scss: {
       includePaths: ['./src/styles']
