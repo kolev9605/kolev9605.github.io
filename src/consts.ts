@@ -44,6 +44,7 @@ export const menuItems = [
     href: "/blog",
     svg: "post",
     target: "_self",
+    subItems: []
   }, // All blog
   {
     id: "projects",
